@@ -1,6 +1,6 @@
 # Agri-Produce Cold-Chain & Mandi Bidding System
 
-A clean, simple, menu-driven desktop-to-terminal Java application for registering crop batches, tracking cold-storage shelf life, accepting mandi bids, and maintaining local records. Developed as a Core Java college mini-project and Object-Oriented Programming (OOP) lab record.
+A clean, simple, menu-driven desktop-to-terminal Java application for registering crop batches, tracking cold-storage shelf life, accepting mandi bids, and maintaining local records. Developed as a Core Java college Software Engineering mini-project and Object-Oriented Programming (OOP) lab record.
 
 Built purely with Core Java, without external dependencies, frameworks, databases, HTML, JavaScript, or build tools.
 
@@ -292,5 +292,3 @@ Both commands should be run from the project root directory:
 ```text
 Agri-Produce Cold-Chain & Mandi Bidding System
 ```
-"# Agri-Produce-Cold-Chain" 
-"# Agri-Produce-Cold-Chain" 
